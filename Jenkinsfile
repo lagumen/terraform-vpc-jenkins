@@ -15,7 +15,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/lagumen/terraform_test.git'
+                git branch: 'main', url: 'https://github.com/lagumen/terraform-vpc-jenkins.git'
             }
         }
         stage('Terraform init') {
