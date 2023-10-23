@@ -1,4 +1,7 @@
+
 # Terraform boiler template to create VPC across two AWS AZ's in us-east-1 region including but not limited to partitioning subnets for private, public and database namespaces.
+<img width="610" alt="Screenshot 2023-10-23 at 9 34 12 AM" src="https://github.com/lagumen/terraform-vpc-jenkins/assets/14792464/45f3acd2-81ca-44e0-8d46-477babc0a548">
+
 
 _Introducing a Terraform Boilerplate for Cross-Availability Zone VPC Creation:_
 
