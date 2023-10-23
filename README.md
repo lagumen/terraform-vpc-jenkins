@@ -1,4 +1,4 @@
-# Terraform boiler template to create VPC across two separate AWS AZ's including and not limited to the carving of related subnets for private, public and database namespaces.
+# Terraform boiler template to create VPC across two AWS AZ's in us-east-1 region including but not limited to partitioning subnets for private, public and database namespaces.
 
 _Introducing a Terraform Boilerplate for Cross-Availability Zone VPC Creation:_
 
